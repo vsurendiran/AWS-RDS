@@ -1,0 +1,37 @@
+Pre-defined RDS
+1. MySQL
+2. PostgreSQL
+3. SQL Server
+4. Oracle
+5. Amazon AURORA
+6. MariaDB
+
+3types of RDS
+1. structured - SQL
+2. Unstructured - Redshift
+3. Semi structured - DynamoDB
+
+
+
+Key Benefits:
+1. Lower administration burden. Easy to use.
+2. Performance. General purpose (SSD) storage
+3. Scalability, push button compute scaling
+4. Availability and durablity. Automated backups
+5. Security. Encryption at rest and in transit
+6. Managebillity. Monitoring and metrics
+7. Cost effectiveness. Pay only for what you use
+
+Practicle: MySQL (Master replica)
+
+1. subnet group - (backup & Recovery)
+2. mysql creation
+3. ec2 instance
+4. installation of mysql to ec2 instance
+5. DDL & DML
+
+Steps
+1. Go to RDS and select the database
+2. Create Ec2 instances
+3. 
+
