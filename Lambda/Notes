@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=aFLh_QGfCGw  -- Lambda function
+https://www.youtube.com/watch?v=g9WtA-XUeGs&t=18s -- Dynamo DB
+
+
+Scale seamlessly - Lambda scales up and down automatically to handle your workloads, and you don't pay anything when your code isn't running.
+
+Lambda is a Serverless Architecture.  Code run without provisioning and manage Server
+
+Features
+1. Serverless - You no need to manage any server
+2. Event Driven - Function trigger various aws services like S3, dynamodb, kinesis, SNS, API, gateway
+3. Auto scaling - Lambda automatic scaling
+4. pay-as-go service - pay for the code run
+5. Support multiple language - Java, Python, nodejs, RUBY, GO
+
+How it works
+------------
+upload a code 
+set up Trigger / Destination
+Execution
